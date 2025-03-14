@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on dynamo and python scripts for automating tasks in Revit.
+- 🌱 I’m currently learning more about AI and machine learning.
 <!--
 **tm-monaghan/tm-monaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
